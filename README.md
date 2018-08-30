@@ -1,3 +1,6 @@
+---
+---
+
 # MinlizedCayman-Jekyll
 kk. jekyll cayman theme with no posts needed, just for page gen. licensed in CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 
