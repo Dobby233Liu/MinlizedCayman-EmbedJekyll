@@ -1,13 +1,11 @@
 # Setup
 locale:       "en"
 title:        "Based on Jekyll"
+
 # Others
 markdown: kramdown
-include:
-        - index.md
 
 exclude:
-        - README.md
         - LICENSE.txt
         - backgroundBuilder.bat
         - Gemfile
