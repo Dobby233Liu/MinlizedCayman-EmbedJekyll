@@ -8,5 +8,6 @@ markdown: kramdown
 exclude:
         - LICENSE.txt
         - backgroundBuilder.bat
+        - pushToRetRemote.bat
         - Gemfile
         - Gemfile.lock
